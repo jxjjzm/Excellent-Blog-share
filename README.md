@@ -53,12 +53,17 @@ Welcome to share excellent blogs and excellent books.
 - [重读JVM](https://juejin.im/post/59ad4cd56fb9a02477075780?utm_medium=weixinqun&utm_source=be)
 - [Java类加载机制](http://www.cnblogs.com/ityouknow/p/5603287.html)
 - [Jvm内存结构](http://www.cnblogs.com/ityouknow/p/5610232.html)
-- [GC算法和垃圾收集其](http://www.cnblogs.com/ityouknow/p/5614961.html)
+- [GC算法和垃圾收集器](http://www.cnblogs.com/ityouknow/p/5614961.html)
+- [Jvm调优之命令大全](http://www.cnblogs.com/ityouknow/p/5714703.html)
+- [Jvm调优之工具篇](http://www.cnblogs.com/ityouknow/p/6437037.html)
 
 
 
 <h3 id="concurrence">java-concurrence</h3>
-*注释写在这里*
+[深度解读 java 线程池设计思想及源码实现](https://juejin.im/entry/59aeaafd51882538cb1ec2f8?utm_medium=be&utm_source=weixinqun)
+
+
+
 <h2 id="DesignPatterns">DesignPatterns系列</h2>
 <h2 id="dubbo">Dubbo系列</h2>
 <h2 id="zookeeper">Zookeeper系列</h2>
