@@ -51,11 +51,12 @@ Welcome to share excellent blogs and excellent books.
 <h3 id="java-jvm">jvm</h3>
 
 - [重读JVM](https://juejin.im/post/59ad4cd56fb9a02477075780?utm_medium=weixinqun&utm_source=be)
-- [Java类加载机制](http://www.cnblogs.com/ityouknow/p/5603287.html)
 - [Jvm内存结构](http://www.cnblogs.com/ityouknow/p/5610232.html)
 - [GC算法和垃圾收集器](http://www.cnblogs.com/ityouknow/p/5614961.html)
 - [Jvm调优之命令大全](http://www.cnblogs.com/ityouknow/p/5714703.html)
 - [Jvm调优之工具篇](http://www.cnblogs.com/ityouknow/p/6437037.html)
+- [class文件基本组织结构](http://blog.csdn.net/luanlouis/article/details/39892027)
+- [Java类加载机制](http://www.cnblogs.com/ityouknow/p/5603287.html)
 
 
 
@@ -75,6 +76,7 @@ Welcome to share excellent blogs and excellent books.
 
 - [万事皆因忙中错，好人半自苦中来](http://www.cnblogs.com/ityouknow/category/437541.html)
 - [纯洁的微笑](http://www.ityouknow.com/)
+- [chenssy](http://blog.csdn.net/chenssy)
 
 <h2 id="excellent-books">Excellent-Books</h2>
 
@@ -101,7 +103,6 @@ Welcome to share excellent blogs and excellent books.
 
 ###个人
 
-- [ityouknow](https://github.com/ityouknow)
 - [ityouknow](https://github.com/ityouknow)
 - [ityouknow](https://github.com/ityouknow)
 - [ityouknow](https://github.com/ityouknow)
