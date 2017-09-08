@@ -1,5 +1,5 @@
 # Excellent-Blog-share
-Welcome to share excellent blogs and excellent books.
+Welcome to share excellent blogs .
 
 当你的能力还驾驭不了你的目标时，就应该沉下心来历练
 
@@ -47,7 +47,10 @@ Welcome to share excellent blogs and excellent books.
 
 <h2 id="java">java系列</h2>
 <h3 id="java-java8">java8</h3>
-*注释写在这里*
+
+- [Java 8 中的 Streams API 详解](https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/)
+- [Java 8 简明教程](https://github.com/biezhi/java-bible/blob/master/java8/java8-guide.md)
+
 <h3 id="java-jvm">jvm</h3>
 
 - [重读JVM](https://juejin.im/post/59ad4cd56fb9a02477075780?utm_medium=weixinqun&utm_source=be)
@@ -61,24 +64,37 @@ Welcome to share excellent blogs and excellent books.
 
 
 <h3 id="concurrence">java-concurrence</h3>
-[深度解读 java 线程池设计思想及源码实现](https://juejin.im/entry/59aeaafd51882538cb1ec2f8?utm_medium=be&utm_source=weixinqun)
+
+- [深度解读 java 线程池设计思想及源码实现](https://juejin.im/entry/59aeaafd51882538cb1ec2f8?utm_medium=be&utm_source=weixinqun)
 
 
 
 <h2 id="DesignPatterns">DesignPatterns系列</h2>
+
+- [设计模式大杂烩（24种设计模式的总结以及学习设计模式的几点建议）](http://www.cnblogs.com/zuoxiaolong/p/pattern26.html)
+
+
 <h2 id="dubbo">Dubbo系列</h2>
 <h2 id="zookeeper">Zookeeper系列</h2>
 <h2 id="redis">Redis系列</h2>
 <h2 id="mq">MQ系列</h2>
 <h2 id="database">Database系列</h2>
 
+
 <h2 id="excellent-blogs">Excellent-Blogs</h2>
 
+- [资源-伯乐在线](http://hao.jobbole.com/)
+- [资源-火龙果](http://www.uml.org.cn/wenzhang/artindex.asp)
+- [资源-w3cschool](https://www.w3cschool.cn/)
+- [资源-国外程序员整理的Java资源大全](http://www.importnew.com/14429.html)
+- [资源-GITBOOK](https://www.gitbook.com/@wizardforcel)
 - [万事皆因忙中错，好人半自苦中来](http://www.cnblogs.com/ityouknow/category/437541.html)
 - [纯洁的微笑](http://www.ityouknow.com/)
 - [chenssy](http://blog.csdn.net/chenssy)
+- [开涛的博客](http://jinnianshilongnian.iteye.com/blog/1752171)
+- [阿里中间件团队博客](http://jm.taobao.org/)
+- [Java程序员从笨鸟到菜鸟](http://blog.csdn.net/csh624366188/article/category/1096527)
 
-<h2 id="excellent-books">Excellent-Books</h2>
 
 
 
@@ -104,11 +120,11 @@ Welcome to share excellent blogs and excellent books.
 ###个人
 
 - [ityouknow](https://github.com/ityouknow)
-- [ityouknow](https://github.com/ityouknow)
-- [ityouknow](https://github.com/ityouknow)
-- [ityouknow](https://github.com/ityouknow)
-- [ityouknow](https://github.com/ityouknow)
-- [ityouknow](https://github.com/ityouknow)
-- [ityouknow](https://github.com/ityouknow)
-- [ityouknow](https://github.com/ityouknow)
-- [ityouknow](https://github.com/ityouknow)
+- [qibaoguang](https://github.com/qibaoguang/Study-Step-by-Step)
+- [gaoxianglong](https://github.com/gaoxianglong)
+- [yjmyzz](https://github.com/yjmyzz)
+- [knightliao](https://github.com/knightliao)
+- [takeseem](https://github.com/takeseem)
+- [liyanpeng](https://github.com/robertleepeak)
+- [biezhi](https://github.com/biezhi)
+- [juejin](https://juejin.im/repos?since=monthly)
