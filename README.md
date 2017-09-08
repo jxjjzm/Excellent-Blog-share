@@ -75,6 +75,12 @@ Welcome to share excellent blogs .
 
 
 <h2 id="dubbo">Dubbo系列</h2>
+
+- [如何更好地学习dubbo源代码](http://aliapp.blog.51cto.com/8192229/1325655)
+- [Dubbo服务telnet命令](http://www.cnblogs.com/feiqihang/p/4387330.html)
+- [服务的启动与初始化](http://www.cnblogs.com/syjkfind/p/5957510.html)
+
+
 <h2 id="zookeeper">Zookeeper系列</h2>
 <h2 id="redis">Redis系列</h2>
 <h2 id="mq">MQ系列</h2>
