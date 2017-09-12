@@ -72,6 +72,8 @@ Welcome to share excellent blogs .
 
 
 
+
+
 <h2 id="DesignPatterns">DesignPatterns系列</h2>
 
 - [设计模式大杂烩（24种设计模式的总结以及学习设计模式的几点建议）](http://www.cnblogs.com/zuoxiaolong/p/pattern26.html)
