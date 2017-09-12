@@ -61,6 +61,7 @@ Welcome to share excellent blogs .
 - [Jvm调优之工具篇](http://www.cnblogs.com/ityouknow/p/6437037.html)
 - [class文件基本组织结构](http://blog.csdn.net/luanlouis/article/details/39892027)
 - [Java类加载机制](http://www.cnblogs.com/ityouknow/p/5603287.html)
+- [Jvm性能调优](http://mp.weixin.qq.com/s?__biz=MzAwNTQ4MTQ4NQ==&mid=2453559992&idx=1&sn=08a48401f425f434bd12c7bb4f0ac0ce&chksm=8cd10fdabba686cca7ba03055efdb9697a1252e8c74d4d9a09bc2a1176955ac798c8f0ec6017&mpshare=1&scene=1&srcid=0912Q2S5v6o3wgm377ybL1ma#rd)
 
 
 
