@@ -76,6 +76,7 @@ Welcome to share excellent blogs .
 - [Java8系列之重新认识HashMap](http://www.importnew.com/20386.html)
 - [Java8集合源码分析](http://www.cnblogs.com/leesf456/tag/%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6/)
 - [Java7 HashMap解惑](http://www.jianshu.com/p/a17b4717a721)
+- [Java6 HashMap源码解析](http://www.jianshu.com/p/e6536af1018f)
 
 
 
