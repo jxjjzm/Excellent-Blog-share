@@ -14,7 +14,7 @@ Welcome to share excellent blogs .
 	* [java8](#java-java8)
 	* [jvm](#java-jvm)
 	* [concurrence](#java-concurrence)
-	* [data_structure_algorithm](#java_data_structure_algorithm)
+	* [dataStructureAndAlgorithm](#java-data-structure-algorithm)
 * [DesignPatterns系列](#DesignPatterns)
 * [Dubbo系列](#dubbo)
 * [Zookeeper系列](#zookeeper)
@@ -69,7 +69,15 @@ Welcome to share excellent blogs .
 
 - [深度解读 java 线程池设计思想及源码实现](https://juejin.im/entry/59aeaafd51882538cb1ec2f8?utm_medium=be&utm_source=weixinqun)
 
-<h3 id="java_data_structure_algorithm">java数据结构与算法</h3>
+
+<h3 id="java-data-structure-algorithm">java数据结构与算法</h3>
+
+- [教你初步了解红黑树](http://blog.csdn.net/v_july_v/article/details/6105630)
+- [Java8系列之重新认识HashMap](http://www.importnew.com/20386.html)
+- [Java8集合源码分析](http://www.cnblogs.com/leesf456/tag/%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6/)
+- [Java7 HashMap解惑](http://www.jianshu.com/p/a17b4717a721)
+
+
 
 
 
