@@ -141,6 +141,7 @@ Welcome to share excellent blogs .
 ###个人
 
 - [ityouknow](https://github.com/ityouknow)
+- [july](https://github.com/julycoding/The-Art-Of-Programming-By-July)
 - [qibaoguang](https://github.com/qibaoguang/Study-Step-by-Step)
 - [gaoxianglong](https://github.com/gaoxianglong)
 - [yjmyzz](https://github.com/yjmyzz)
