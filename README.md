@@ -71,6 +71,7 @@ Welcome to share excellent blogs .
 - [浅析并发编程之CAS&Unsafe&AQS的“秘密”](http://www.jianshu.com/p/54cc20a87502)
 - [JDK1.8源码分析之AbstractQueuedSynchronizer](http://www.cnblogs.com/leesf456/p/5350186.html)
 - [AbstractQueuedSynchronizer的介绍和原理分析](http://ifeve.com/introduce-abstractqueuedsynchronizer/)
+- [Java内存模型](http://www.cnblogs.com/BangQ/p/4045954.html)
 
 
 <h3 id="java-data-structure-algorithm">java数据结构与算法</h3>
