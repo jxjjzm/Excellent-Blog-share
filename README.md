@@ -68,6 +68,9 @@ Welcome to share excellent blogs .
 <h3 id="java-concurrence">java并发</h3>
 
 - [深度解读 java 线程池设计思想及源码实现](https://juejin.im/entry/59aeaafd51882538cb1ec2f8?utm_medium=be&utm_source=weixinqun)
+- [浅析并发编程之CAS&Unsafe&AQS的“秘密”](http://www.jianshu.com/p/54cc20a87502)
+- [JDK1.8源码分析之AbstractQueuedSynchronizer](http://www.cnblogs.com/leesf456/p/5350186.html)
+- [AbstractQueuedSynchronizer的介绍和原理分析](http://ifeve.com/introduce-abstractqueuedsynchronizer/)
 
 
 <h3 id="java-data-structure-algorithm">java数据结构与算法</h3>
@@ -109,6 +112,7 @@ Welcome to share excellent blogs .
 - [资源-w3cschool](https://www.w3cschool.cn/)
 - [资源-国外程序员整理的Java资源大全](http://www.importnew.com/14429.html)
 - [资源-GITBOOK](https://www.gitbook.com/@wizardforcel)
+- [简明现代魔法](http://www.nowamagic.net/)
 - [万事皆因忙中错，好人半自苦中来](http://www.cnblogs.com/ityouknow/category/437541.html)
 - [纯洁的微笑](http://www.ityouknow.com/)
 - [chenssy](http://blog.csdn.net/chenssy)
