@@ -62,16 +62,19 @@ Welcome to share excellent blogs .
 - [class文件基本组织结构](http://blog.csdn.net/luanlouis/article/details/39892027)
 - [Java类加载机制](http://www.cnblogs.com/ityouknow/p/5603287.html)
 - [Jvm性能调优](http://mp.weixin.qq.com/s?__biz=MzAwNTQ4MTQ4NQ==&mid=2453559992&idx=1&sn=08a48401f425f434bd12c7bb4f0ac0ce&chksm=8cd10fdabba686cca7ba03055efdb9697a1252e8c74d4d9a09bc2a1176955ac798c8f0ec6017&mpshare=1&scene=1&srcid=0912Q2S5v6o3wgm377ybL1ma#rd)
+- [JVM系列](http://www.cnblogs.com/leesf456/p/5338951.html)
 
 
 
 <h3 id="java-concurrence">java并发</h3>
 
-- [深度解读 java 线程池设计思想及源码实现](https://juejin.im/entry/59aeaafd51882538cb1ec2f8?utm_medium=be&utm_source=weixinqun)
+- [深度解读 java 线程池设计思想及源码实现](https://juejin.im/entry/59aeaafd51882538cb1ec2f8utm_medium=be&utm_source=weixinqun)
 - [浅析并发编程之CAS&Unsafe&AQS的“秘密”](http://www.jianshu.com/p/54cc20a87502)
 - [JDK1.8源码分析之AbstractQueuedSynchronizer](http://www.cnblogs.com/leesf456/p/5350186.html)
 - [AbstractQueuedSynchronizer的介绍和原理分析](http://ifeve.com/introduce-abstractqueuedsynchronizer/)
 - [Java内存模型](http://www.cnblogs.com/BangQ/p/4045954.html)
+- [JUC集合框架](http://www.cnblogs.com/leesf456/p/5550043.html)
+- [JUC锁框架](http://www.cnblogs.com/leesf456/p/5453091.html)
 
 
 <h3 id="java-data-structure-algorithm">java数据结构与算法</h3>
@@ -101,6 +104,13 @@ Welcome to share excellent blogs .
 
 
 <h2 id="zookeeper">Zookeeper系列</h2>
+
+
+- [zookeeper](http://www.cnblogs.com/leesf456/p/6239578.html)
+- [zookeeper源码分析](http://www.cnblogs.com/leesf456/p/6518040.html)
+
+
+
 <h2 id="redis">Redis系列</h2>
 <h2 id="mq">MQ系列</h2>
 <h2 id="database">Database系列</h2>
