@@ -14,13 +14,15 @@ Welcome to share excellent blogs .
 	* [java8](#java-java8)
 	* [jvm](#java-jvm)
 	* [concurrence](#java-concurrence)
-	* [dataStructureAndAlgorithm](#java-data-structure-algorithm)
+	* [collection](#java-collection)
+	* [Others](#java-others)
 * [DesignPatterns系列](#DesignPatterns)
 * [Dubbo系列](#dubbo)
 * [Zookeeper系列](#zookeeper)
 * [Redis系列](#redis)
 * [MQ系列](#mq)
 * [Database系列](#database)
+* [Netty系列](#netty)
 
 
 ###附录
@@ -54,6 +56,7 @@ Welcome to share excellent blogs .
 
 <h3 id="java-jvm">jvm</h3>
 
+- [JVM系列目录](http://www.cnblogs.com/leesf456/p/5338951.html)
 - [重读JVM](https://juejin.im/post/59ad4cd56fb9a02477075780?utm_medium=weixinqun&utm_source=be)
 - [Jvm内存结构](http://www.cnblogs.com/ityouknow/p/5610232.html)
 - [GC算法和垃圾收集器](http://www.cnblogs.com/ityouknow/p/5614961.html)
@@ -62,38 +65,48 @@ Welcome to share excellent blogs .
 - [class文件基本组织结构](http://blog.csdn.net/luanlouis/article/details/39892027)
 - [Java类加载机制](http://www.cnblogs.com/ityouknow/p/5603287.html)
 - [Jvm性能调优](http://mp.weixin.qq.com/s?__biz=MzAwNTQ4MTQ4NQ==&mid=2453559992&idx=1&sn=08a48401f425f434bd12c7bb4f0ac0ce&chksm=8cd10fdabba686cca7ba03055efdb9697a1252e8c74d4d9a09bc2a1176955ac798c8f0ec6017&mpshare=1&scene=1&srcid=0912Q2S5v6o3wgm377ybL1ma#rd)
-- [JVM系列](http://www.cnblogs.com/leesf456/p/5338951.html)
+
 
 
 
 <h3 id="java-concurrence">java并发</h3>
 
+- [JUC集合框架目录](http://www.cnblogs.com/leesf456/p/5550043.html)
+- [JUC锁框架目录](http://www.cnblogs.com/leesf456/p/5453091.html)
 - [深度解读 java 线程池设计思想及源码实现](https://juejin.im/entry/59aeaafd51882538cb1ec2f8utm_medium=be&utm_source=weixinqun)
 - [浅析并发编程之CAS&Unsafe&AQS的“秘密”](http://www.jianshu.com/p/54cc20a87502)
 - [JDK1.8源码分析之AbstractQueuedSynchronizer](http://www.cnblogs.com/leesf456/p/5350186.html)
+- [JDK1.8源码分析之ThreadPoolExecutor](http://www.cnblogs.com/leesf456/p/5585627.html)
 - [AbstractQueuedSynchronizer的介绍和原理分析](http://ifeve.com/introduce-abstractqueuedsynchronizer/)
 - [Java内存模型](http://www.cnblogs.com/BangQ/p/4045954.html)
-- [JUC集合框架](http://www.cnblogs.com/leesf456/p/5550043.html)
-- [JUC锁框架](http://www.cnblogs.com/leesf456/p/5453091.html)
 
 
-<h3 id="java-data-structure-algorithm">java数据结构与算法</h3>
+<h3 id="java-collection">java集合相关</h3>
 
+- [集合框架目录](http://www.cnblogs.com/leesf456/p/5345493.html)
 - [教你初步了解红黑树](http://blog.csdn.net/v_july_v/article/details/6105630)
 - [Java8系列之重新认识HashMap](http://www.importnew.com/20386.html)
 - [Java8集合源码分析](http://www.cnblogs.com/leesf456/tag/%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6/)
 - [Java7 HashMap解惑](http://www.jianshu.com/p/a17b4717a721)
 - [Java6 HashMap源码解析](http://www.jianshu.com/p/e6536af1018f)
 
+<h3 id="java-others">Others</h3>
 
-
-
-
-
+- [操作系统目录](http://www.cnblogs.com/leesf456/p/5628300.html)
 
 <h2 id="DesignPatterns">DesignPatterns系列</h2>
 
 - [设计模式大杂烩（24种设计模式的总结以及学习设计模式的几点建议）](http://www.cnblogs.com/zuoxiaolong/p/pattern26.html)
+- [设计模式之单例模式](http://www.cnblogs.com/leesf456/p/5578337.html)
+- [设计模式之外观模式](http://www.cnblogs.com/leesf456/p/5596710.html)
+- [设计模式之适配器模式](http://www.cnblogs.com/leesf456/p/5596493.html)
+- [命令模式](http://www.cnblogs.com/leesf456/p/5580137.html)
+- [装饰者模式](http://www.cnblogs.com/leesf456/p/5557778.html)
+- [观察者模式](http://www.cnblogs.com/leesf456/p/5550692.html)
+- [策略模式](http://www.cnblogs.com/leesf456/p/5547565.html)
+
+
+
 
 
 <h2 id="dubbo">Dubbo系列</h2>
@@ -106,15 +119,21 @@ Welcome to share excellent blogs .
 <h2 id="zookeeper">Zookeeper系列</h2>
 
 
-- [zookeeper](http://www.cnblogs.com/leesf456/p/6239578.html)
-- [zookeeper源码分析](http://www.cnblogs.com/leesf456/p/6518040.html)
+- [zookeeper目录](http://www.cnblogs.com/leesf456/p/6239578.html)
+- [zookeeper源码分析目录](http://www.cnblogs.com/leesf456/p/6518040.html)
 
 
 
 <h2 id="redis">Redis系列</h2>
 <h2 id="mq">MQ系列</h2>
 <h2 id="database">Database系列</h2>
+<h2 id="netty">Netty系列</h2>
+- [Java NIO之缓冲](http://www.cnblogs.com/leesf456/p/6713741.html)
+- [Java NIO之选择器](http://www.cnblogs.com/leesf456/p/6756067.html)
+- [Java NIO之通道](http://www.cnblogs.com/leesf456/p/6715740.html)
+- [Netty源码分析目录](http://www.cnblogs.com/leesf456/p/7429134.html)
 
+http://www.cnblogs.com/leesf456/p/7429134.html
 
 <h2 id="excellent-blogs">Excellent-Blogs</h2>
 
@@ -130,6 +149,7 @@ Welcome to share excellent blogs .
 - [开涛的博客](http://jinnianshilongnian.iteye.com/blog/1752171)
 - [阿里中间件团队博客](http://jm.taobao.org/)
 - [Java程序员从笨鸟到菜鸟](http://blog.csdn.net/csh624366188/article/category/1096527)
+- [leesf](http://www.cnblogs.com/leesf456/)
 
 
 
