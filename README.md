@@ -23,6 +23,7 @@ Welcome to share excellent blogs .
 * [MQ系列](#mq)
 * [Database系列](#database)
 * [Netty系列](#netty)
+* [Spring Cloud系列](#spring-cloud)
 
 
 ###附录
@@ -77,6 +78,7 @@ Welcome to share excellent blogs .
 - [浅析并发编程之CAS&Unsafe&AQS的“秘密”](http://www.jianshu.com/p/54cc20a87502)
 - [JDK1.8源码分析之AbstractQueuedSynchronizer](http://www.cnblogs.com/leesf456/p/5350186.html)
 - [JDK1.8源码分析之ThreadPoolExecutor](http://www.cnblogs.com/leesf456/p/5585627.html)
+- [Java线程池ThreadPoolExecutor使用和分析](http://www.cnblogs.com/trust-freedom/p/6594270.html)
 - [AbstractQueuedSynchronizer的介绍和原理分析](http://ifeve.com/introduce-abstractqueuedsynchronizer/)
 - [Java内存模型](http://www.cnblogs.com/BangQ/p/4045954.html)
 
@@ -133,7 +135,12 @@ Welcome to share excellent blogs .
 - [Java NIO之通道](http://www.cnblogs.com/leesf456/p/6715740.html)
 - [Netty源码分析目录](http://www.cnblogs.com/leesf456/p/7429134.html)
 
-http://www.cnblogs.com/leesf456/p/7429134.html
+
+<h2 id="spring-cloud">Spring Cloud系列</h2>
+
+- [Spring Cloud基础教程](http://blog.didispace.com/Spring-Cloud%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)
+- [Spring Cloud](http://blog.didispace.com/categories/Spring-Cloud/page/5/)
+
 
 <h2 id="excellent-blogs">Excellent-Blogs</h2>
 
@@ -150,6 +157,8 @@ http://www.cnblogs.com/leesf456/p/7429134.html
 - [阿里中间件团队博客](http://jm.taobao.org/)
 - [Java程序员从笨鸟到菜鸟](http://blog.csdn.net/csh624366188/article/category/1096527)
 - [leesf](http://www.cnblogs.com/leesf456/)
+- [龙果支付系统，已接通支付宝、微信支付，具备支付、对账、清结算等功能](https://gitee.com/roncoocom/roncoo-pay)
+- [现代支付系统设计——基于微服务的实践](http://blog.lixf.cn/)
 
 
 
