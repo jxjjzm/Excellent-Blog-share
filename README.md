@@ -79,6 +79,7 @@ Welcome to share excellent blogs .
 - [JDK1.8源码分析之AbstractQueuedSynchronizer](http://www.cnblogs.com/leesf456/p/5350186.html)
 - [JDK1.8源码分析之ThreadPoolExecutor](http://www.cnblogs.com/leesf456/p/5585627.html)
 - [Java线程池ThreadPoolExecutor使用和分析](http://www.cnblogs.com/trust-freedom/p/6594270.html)
+- [深入浅出AQS系列文章汇总](http://www.jianshu.com/p/a18b488bd44d)
 - [AbstractQueuedSynchronizer的介绍和原理分析](http://ifeve.com/introduce-abstractqueuedsynchronizer/)
 - [Java内存模型](http://www.cnblogs.com/BangQ/p/4045954.html)
 
