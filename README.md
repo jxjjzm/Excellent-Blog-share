@@ -195,3 +195,4 @@ Welcome to share excellent blogs .
 - [liyanpeng](https://github.com/robertleepeak)
 - [biezhi](https://github.com/biezhi)
 - [juejin](https://juejin.im/repos?since=monthly)
+- [tim chow](http://timd.cn/author/tim/)
