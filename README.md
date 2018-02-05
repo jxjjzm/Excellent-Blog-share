@@ -23,18 +23,15 @@ Welcome to share excellent blogs .
 * [MQ系列](#mq)
 * [Database系列](#database)
 * [Netty系列](#netty)
+* [Spring系列](#spring)
 * [Spring Cloud系列](#spring-cloud)
+* [微服务系列](#micro-service)
 
 
 ###附录
 * [Excellent-Blogs](#excellent-blogs)
 * [Excellent-Books](#excellent-books)
 * [Excellen-Githubs](#excellent-githubs)
-
-
-
-
-
 
 
 
@@ -100,6 +97,7 @@ Welcome to share excellent blogs .
 <h2 id="DesignPatterns">DesignPatterns系列</h2>
 
 - [设计模式大杂烩（24种设计模式的总结以及学习设计模式的几点建议）](http://www.cnblogs.com/zuoxiaolong/p/pattern26.html)
+- [Java开发中的23种设计模式详解(转)](http://www.cnblogs.com/maowang1991/archive/2013/04/15/3023236.html)
 - [设计模式之单例模式](http://www.cnblogs.com/leesf456/p/5578337.html)
 - [设计模式之外观模式](http://www.cnblogs.com/leesf456/p/5596710.html)
 - [设计模式之适配器模式](http://www.cnblogs.com/leesf456/p/5596493.html)
@@ -117,6 +115,7 @@ Welcome to share excellent blogs .
 - [如何更好地学习dubbo源代码](http://aliapp.blog.51cto.com/8192229/1325655)
 - [Dubbo服务telnet命令](http://www.cnblogs.com/feiqihang/p/4387330.html)
 - [服务的启动与初始化](http://www.cnblogs.com/syjkfind/p/5957510.html)
+- [Dubbo设计分享系列](http://javatar.iteye.com/blog/1056664)
 
 
 <h2 id="zookeeper">Zookeeper系列</h2>
@@ -128,6 +127,7 @@ Welcome to share excellent blogs .
 
 
 <h2 id="redis">Redis系列</h2>
+- [伯乐在线——Redis](http://blog.jobbole.com/tag/redis/)
 <h2 id="mq">MQ系列</h2>
 <h2 id="database">Database系列</h2>
 <h2 id="netty">Netty系列</h2>
@@ -137,10 +137,23 @@ Welcome to share excellent blogs .
 - [Netty源码分析目录](http://www.cnblogs.com/leesf456/p/7429134.html)
 
 
+<h2 id="spring">Spring 系列</h2>
+
+- [深入剖析Spring Web源码](http://blog.csdn.net/robertleepeak/article/list/2)
+- [Spring 框架的设计理念与设计模式分析](https://www.ibm.com/developerworks/cn/java/j-lo-spring-principle/)
+- [Spring中的设计模式](http://www.uml.org.cn/j2ee/201301074.asp)
+
+
+
+
 <h2 id="spring-cloud">Spring Cloud系列</h2>
 
 - [Spring Cloud基础教程](http://blog.didispace.com/Spring-Cloud%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)
 - [Spring Cloud](http://blog.didispace.com/categories/Spring-Cloud/page/5/)
+
+<h2 id="micro-service">微服务系列</h2>
+
+- [微服务架构技术栈选型手册](https://mp.weixin.qq.com/s/zFJokAv8lSQejGFTGJTJeQ)
 
 
 <h2 id="excellent-blogs">Excellent-Blogs</h2>
@@ -197,3 +210,4 @@ Welcome to share excellent blogs .
 - [biezhi](https://github.com/biezhi)
 - [juejin](https://juejin.im/repos?since=monthly)
 - [tim chow](http://timd.cn/author/tim/)
+- [李艳鹏](http://blog.csdn.net/robertleepeak/article/list/1)
