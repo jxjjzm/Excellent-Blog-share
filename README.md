@@ -164,6 +164,7 @@ Welcome to share excellent blogs .
 - [资源-w3cschool](https://www.w3cschool.cn/)
 - [资源-国外程序员整理的Java资源大全](http://www.importnew.com/14429.html)
 - [资源-GITBOOK](https://www.gitbook.com/@wizardforcel)
+- [架构师之路17年精选80篇](https://mp.weixin.qq.com/s/CIPosICgva9haqstMDIHag)
 - [简明现代魔法](http://www.nowamagic.net/)
 - [万事皆因忙中错，好人半自苦中来](http://www.cnblogs.com/ityouknow/category/437541.html)
 - [纯洁的微笑](http://www.ityouknow.com/)
