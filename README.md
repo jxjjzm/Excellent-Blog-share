@@ -97,6 +97,8 @@ Welcome to share excellent blogs .
 <h2 id="DesignPatterns">DesignPatterns系列</h2>
 
 - [设计模式大杂烩（24种设计模式的总结以及学习设计模式的几点建议）](http://www.cnblogs.com/zuoxiaolong/p/pattern26.html)
+- [图说设计模式](http://design-patterns.readthedocs.io/zh_CN/latest/)
+- [java设计模式【全】](https://mp.weixin.qq.com/s/--Mnh-VWhcmskh1J3yU7CA)
 - [Java开发中的23种设计模式详解(转)](http://www.cnblogs.com/maowang1991/archive/2013/04/15/3023236.html)
 - [设计模式之单例模式](http://www.cnblogs.com/leesf456/p/5578337.html)
 - [设计模式之外观模式](http://www.cnblogs.com/leesf456/p/5596710.html)
@@ -175,6 +177,8 @@ Welcome to share excellent blogs .
 - [leesf](http://www.cnblogs.com/leesf456/)
 - [龙果支付系统，已接通支付宝、微信支付，具备支付、对账、清结算等功能](https://gitee.com/roncoocom/roncoo-pay)
 - [现代支付系统设计——基于微服务的实践](http://blog.lixf.cn/)
+- [写这么多系列博客，怪不得找不到女朋友 ](https://juejin.im/post/5aba6779518825555e5de175?utm_medium=be&utm_source=weixinqun#heading-14)
+- [各大互联网公司架构演进之路汇总](http://www.hollischuang.com/archives/1036)
 
 
 
