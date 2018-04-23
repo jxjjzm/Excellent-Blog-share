@@ -131,7 +131,12 @@ Welcome to share excellent blogs .
 <h2 id="redis">Redis系列</h2>
 - [伯乐在线——Redis](http://blog.jobbole.com/tag/redis/)
 <h2 id="mq">MQ系列</h2>
+
 <h2 id="database">Database系列</h2>
+- [MySQL索引和SQL调优](https://juejin.im/post/5a6873fbf265da3e393a97fa)
+- [揪出MySQL延迟上千秒的元凶](http://blog.51cto.com/suifu/2094198?wx=)
+- [掌握MySQL数据库这些优化技巧，事半功倍！](http://blog.51cto.com/lizhenliang/2095526?wx=)
+
 <h2 id="netty">Netty系列</h2>
 - [Java NIO之缓冲](http://www.cnblogs.com/leesf456/p/6713741.html)
 - [Java NIO之选择器](http://www.cnblogs.com/leesf456/p/6756067.html)
