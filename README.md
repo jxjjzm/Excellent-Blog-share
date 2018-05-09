@@ -119,7 +119,8 @@ Welcome to share excellent blogs .
 - [Dubbo服务telnet命令](http://www.cnblogs.com/feiqihang/p/4387330.html)
 - [Dubbo设计分享系列](http://javatar.iteye.com/blog/1056664)
 - [Dubbo-从入门到深入](https://www.jianshu.com/p/adfd55ea9a25)
-- [dubbo源码解析](https://www.jianshu.com/nb/6137390)
+- [Dubbo源码解析](https://www.jianshu.com/nb/6137390)
+- [Dubbo原理解析](https://blog.csdn.net/column/details/learningdubbo.html?&page=1)
 
 
 <h2 id="zookeeper">Zookeeper系列</h2>
@@ -154,7 +155,7 @@ Welcome to share excellent blogs .
 
 <h2 id="spring-boot">Spring Boot系列</h2>
 
-- [深入剖析Spring Web源码](https://github.com/CFshuming/awesome-spring-boot)
+- [awesome-spring-boot](https://github.com/CFshuming/awesome-spring-boot)
 
 
 <h2 id="spring-cloud">Spring Cloud系列</h2>
